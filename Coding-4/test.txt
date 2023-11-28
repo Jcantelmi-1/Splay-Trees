@@ -1,0 +1,6 @@
+insert,10
+insert,4
+insert,34
+search,4
+delete,10
+dump
